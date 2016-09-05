@@ -1,8 +1,7 @@
+#getRedisInfo.class.php-`sentinel`实现`redis`主从高可用；
 >**必要条件**
 >安装了`redis`扩展，
 >安装了`apcu`
-
-#利用php使用`sentinel`实现`redis`主从读写高可用；
 
 ## 1. 连接客sentinel户端获得redis信息；
 
